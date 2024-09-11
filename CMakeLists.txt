@@ -8,11 +8,13 @@ cmake_minimum_required(VERSION 3.5.1)
 find_package(catkin REQUIRED 
    COMPONENTS
       std_msgs
+      geometry_msgs
       message_generation
 )
 
 find_package(catkin REQUIRED COMPONENTS
    std_msgs
+   geometry_msgs
    message_generation
 )
 

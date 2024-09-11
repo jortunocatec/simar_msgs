@@ -1,0 +1,9 @@
+string enable
+
+# TRUE 
+# FALSE
+
+
+---
+bool success
+string message

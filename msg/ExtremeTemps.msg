@@ -1,0 +1,3 @@
+PixelTemp max_temp
+PixelTemp min_temp
+PixelTemp center_temp
